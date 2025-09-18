@@ -1,4 +1,4 @@
-# udemy-video-downloader
+# Udemy Video Downloader
 
 ## 🔗 Links
 
