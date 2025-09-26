@@ -107,20 +107,8 @@ yt-dlp \
 
 ---
 
-## 6. Notes & Gotchas
 
-* **You must be logged in to Udemy** in that Chrome profile, and the lecture must play in your browser.
-* **Course ownership required** — yt-dlp won’t bypass Udemy’s paywall.
-* **Update yt-dlp regularly** since Udemy’s backend changes often:
-
-  ```bash
-  pip install -U yt-dlp
-  ```
-* **Profile mismatch = 403s** → always confirm profile name in `chrome://profile-internals`.
-
----
-
-## 7. Quick Copy-Paste Cheatsheet
+## Quick Copy-Paste Cheatsheet
 
 **Default speed (works fine):**
 
@@ -144,6 +132,3 @@ yt-dlp --downloader aria2c --downloader-args "aria2c:-x 16 -s 16 -k 1M" --cookie
 
 ✅ With this setup, you can download Udemy lectures you own in high quality, save them as MP4, and speed up the process with concurrency or aria2c.
 
----
-
-Do you want me to extend this article to also cover **whole-course downloads** (so you don’t have to run it per lecture)?
