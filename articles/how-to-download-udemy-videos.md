@@ -19,7 +19,8 @@ https://www.udemy.com/course/chrome-extension/learn/lecture/25704636
 
 You can use either a lecture link (downloads just that video) or the base course URL (downloads all lectures you have access to).
 
----
+<img width="3456" height="2234" alt="dpwnloadudemy" src="https://github.com/user-attachments/assets/80b36366-8baf-40ab-b775-74f6a8afc82c" />
+
 
 ## 2. Locate Your Chrome Profile
 
@@ -43,7 +44,8 @@ yt-dlp needs to know which Chrome profile to read cookies from.
   * If you see `Profile 1`, use `"chrome:Profile 1"`.
   * Etc.
 
----
+<img width="3436" height="1242" alt="chromeprofile" src="https://github.com/user-attachments/assets/9efeda27-1dda-4d76-acff-ccbba4026066" />
+
 
 ## 3. Run yt-dlp with Cookies
 
@@ -59,7 +61,8 @@ yt-dlp \
   "https://www.udemy.com/course/chrome-extension/learn/lecture/25704636"
 ```
 
----
+<img width="3456" height="2234" alt="Screenshot 2025-09-26 at 16 15 03" src="https://github.com/user-attachments/assets/6d42cb7f-56af-43c7-a583-cf5c21060bc0" />
+
 
 ## 4. What Each Flag Does
 
