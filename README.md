@@ -54,28 +54,28 @@ All videos are saved as standard MP4 files that play on any device or media play
 
 ## FAQ
 
-**How do I download a Udemy video?**
+**How do I download a Udemy video**
 Log in to Udemy in your browser, navigate to a lecture page in a course you are enrolled in, then click the download button on the player or the extension icon. The video downloads as MP4.
 
-**Can I download an entire course at once?**
+**Can I download an entire course at once**
 Yes. The extension lists all lectures in the course with checkboxes. Select the lectures you want and click Download All to queue them.
 
-**What quality options are available?**
+**What quality options are available**
 The extension automatically selects the best available quality — up to 4K (2160p). Available resolutions depend on what Udemy provides for each lecture.
 
-**What format are downloaded videos?**
+**What format are downloaded videos**
 All videos save as standard MP4 files that play on any device or media player.
 
-**Do I need to be enrolled in the course?**
+**Do I need to be enrolled in the course**
 Yes. You must be enrolled (free or paid) in the course to download its lectures. The extension uses your active Udemy session.
 
-**Why does it say the content is DRM-protected?**
+**Why does it say the content is DRM-protected**
 Some Udemy courses use digital rights management to prevent downloads. These videos cannot be downloaded by any browser extension. The extension will notify you when this is the case.
 
-**Does this work on Firefox?**
+**Does this work on Firefox**
 Yes. It supports Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
 
-**Is my Udemy account safe?**
+**Is my Udemy account safe**
 Yes. The extension reads your existing Udemy login session — it never stores or transmits your Udemy credentials. Extension authentication uses secure one-time-password verification with no passwords stored.
 
 ## Notes (important)
